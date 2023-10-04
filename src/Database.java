@@ -13,6 +13,6 @@ public class Database {
     }
 
     public void test() {
-        System.out.println("Hey, I'm working!");
+        System.out.println("success");
     }
 }
